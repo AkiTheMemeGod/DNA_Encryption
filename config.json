@@ -1,0 +1,6 @@
+{
+    "aes_key_length": 256,
+    "compression": true,
+    "obfuscation": "xor",
+    "error_correction": "medium"
+}
